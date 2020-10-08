@@ -4,6 +4,13 @@ which uses at least five (5) different CSS selectors (e.g. tag (example),
 class (.example), or ID (#example)), and within which you use a total of
 at least five (5) different CSS properties, such as font-size, or margin; and */
 
+
+.cookies
+{
+    font-size: 1rem;
+    color: DarkGrey;
+}
+
 .vidheader
 {
     position: relative !important;
