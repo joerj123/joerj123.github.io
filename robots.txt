@@ -1,0 +1,5 @@
+# Everywhere group
+User-agent: *
+Allow: /
+
+Sitemap: http://www.joerinaldijohnson.com/sitemap.xml
